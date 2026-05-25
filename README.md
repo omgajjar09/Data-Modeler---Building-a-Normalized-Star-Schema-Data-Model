@@ -229,12 +229,3 @@ All relationships and filters worked correctly.
 - Optimizing Power BI data models
 
 ---
-
-# 🚀 Final Outcome
-Successfully created a clean and optimized Star Schema Data Model in Power BI with properly connected tables, correct relationships, and efficient reporting structure.
-
----
-
-# 👨‍💻 Author
-**Om Peshavariya**  
-Power BI & Data Analytics Learner
